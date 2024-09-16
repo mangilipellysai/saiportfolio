@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Build Your Own Static Website",
+        "icon": "static website"
+    },
+    {
+        "name": "Introduction to database",
+        "icon": "database"
+    },
+    {
+        "name": "Build Your Own Responsive Website",
+        "icon": "ccbp static"
+    },
+   
+    {
+        "name": "Accenture Developer Program",
+        "icon": "accenture"
+    },
+   
+    {
+        "name": "Tcs Email etiquite",
+        "icon": "email"
+    },
+    {
+        "name": "Gold Man sachs virtual Program",
+        "icon": "goldman sachss"
+    },
+    {
+        "name": "Infosys Citizen data Science",
+        "icon": "infosys"
+    },
+    {
+        "name": "TCS Telephone Etiqueete",
+        "icon": "telephone"
+    },
+    
+    {
+        "name": "TCS Interview Skills",
+        "icon": "interview"
+    },
+    
+    {
+        "name": "TCS Soft Skills",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    }
+    
+]
