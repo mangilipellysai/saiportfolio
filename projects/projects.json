@@ -35,7 +35,7 @@
     "image": "to-do-list-apps",
     "category": "Dynamic web applicstion",
     "links": {
-      "view": "https://mangilipellysai.github.io/Todo-List/",
+      "view": "https://saitodo.ccbp.tech/",
       "code": "https://github.com/mangilipellysai/Todo-List"
     }
   },
@@ -45,8 +45,8 @@
     "image": "foodwebsite",
     "category": "Responsive web applicstion",
     "links": {
-      "view": "saifooddmunch.ccbp.tech",
-      "code": "https://saifooddmunch.ccbp.tech/"
+      "view": "https://saifooddmunch.ccbp.tech/",
+      "code": "#"
     }
   },
   {
@@ -55,7 +55,7 @@
     "image": "templeweb",
     "category": "static website",
     "links": {
-      "view": "sai1819.ccbp.tech",
+      "view": "https://sai1819.ccbp.tech/",
       "code": "sai1819.ccbp.tech"
     }
   }
